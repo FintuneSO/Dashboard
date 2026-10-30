@@ -5,3 +5,13 @@ api/__pycache__/
 api/**/__pycache__/
 *.pyc
 .DS_Store
+
+/.claude/
+/.scratch_mockup/
+/Files/
+/dashboard-project/
+/dashboard-prototype/
+/db/
+/docs/
+/scraper/
+/screenshots/
